@@ -509,7 +509,6 @@ class MagicalLibrary {
     
     public static void main(String[] args) {
         MagicalLibrary library = new MagicalLibrary();
-        System.out.println("Seraj Omar     202310021\n");
 
         library.addBookToCatalog("The Enchanted Sword of Galladorn", "Genre", "Adventure");
         library.addBookToCatalog("Puss in Boots and the Crystal Cave", "Genre", "Adventure");
